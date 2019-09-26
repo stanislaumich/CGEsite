@@ -14,11 +14,11 @@
 <td background="%images%/logoByhov.jpg" colspan=2 height=340px><br><br><br><br><br><br><br>
 <div id="first_element">
 <div class="logo">
-УЗ "Быховский райЦГЭ"<br>
-ул. Красноармейская, 3а, 213352, г. Быхов<br>
-Приемная тел./факс. 49-282<br>
-Главный врач тел. 49-443<br><br><br>
-e-mail: san_byhov@mogilev.by<br><br>
+%nazvkrat%<br>
+%adr%<br>
+Приемная тел./факс. %priem%<br>
+Главный врач тел. %glvr%<br><br><br>
+e-mail: %e-mail_priem%<br><br>
 </div>
 </div>
 

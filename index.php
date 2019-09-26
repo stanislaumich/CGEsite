@@ -27,6 +27,16 @@ $main=str_replace('%tpl%',$tpl,$main);
 $main=str_replace('%images%',$images,$main);
 $main=str_replace('%mdocs%',$mdocs,$main);
 $main=str_replace('%alert%',$alert,$main);
+////////////////////////////////////////// coordinates & phones
+$f=file_get_contents($coords);
+$strs = explode(PHP_EOL,$f);
+foreach($strs as $st0){
+        $st=explode('#',$st0);
+        //print_r ($st);
+        $main=str_replace($st[0],$st[1],$main);
+}
+
+////////////////////////////////////////// coordinates & phones
 unset($p);
 $dbn=null;
 $dbu=null;
