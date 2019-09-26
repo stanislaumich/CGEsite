@@ -1,0 +1,4 @@
+<?php
+$nak= "news-php";
+
+?>

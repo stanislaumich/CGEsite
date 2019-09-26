@@ -1,0 +1,122 @@
+font.up{
+	color: green;
+	font-size:20px;
+	font-family:Verdana;
+}
+a.docs{
+	color: #ffffff;/*цвет текста*/
+	font-size: 14px;/*размер текста*/
+    font-weight: bold;/*жирный шрифт*/
+	line-height: 1.5;/*высота строки*/
+	text-decoration: none;/*убераем подчеркивание*/
+}
+a.wsbutton{
+    background: #405641;/*цвет фона*/
+    border-radius: 3px;/*радиус скругления*/
+    box-shadow: 0 -3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*внутрення тень*/
+    color: #ffffff;/*цвет текста*/
+    /*display: table;/*элемент таблицы*/
+    font-family: sans-serif;/*семейство шрифта*/
+    font-size: 14px;/*размер текста*/
+    font-weight: bold;/*жирный шрифт*/
+    line-height: 1.5;/*высота строки*/
+    padding: 5px 25px;/*внутрение отступы*/
+    /*margin:0 auto;/*выравнивание по центру*/
+    text-decoration: none;/*убераем подчеркивание*/
+    transition: all 0.3s;/*плавный эффект перехода*/
+}
+a.wsbuttons{
+    background: #013001;/*цвет фона*/
+    border-radius: 3px;/*радиус скругления*/
+    box-shadow: 0 -3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*внутрення тень*/
+    color: #ffffff;/*цвет текста*/
+    /*display: table;/*элемент таблицы*/
+    font-family: sans-serif;/*семейство шрифта*/
+    font-size: 14px;/*размер текста*/
+    font-weight: bold;/*жирный шрифт*/
+    line-height: 1.5;/*высота строки*/
+    padding: 5px 5px;/*внутрение отступы*/
+    /*margin:0 auto;/*выравнивание по центру*/
+    text-decoration: none;/*убераем подчеркивание*/
+    transition: all 0.3s;/*плавный эффект перехода*/
+}
+/*стили кнопки при наведении курсора мыши на нее*/
+a.wsbutton:hover {
+    background: rgb(5, 189, 118);/*другой цвет фона*/
+    box-shadow: 0 3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*расположение тени сверху*/
+}
+a.wsbuttons:hover {
+    background: rgb(113, 133, 3);/*другой цвет фона*/
+    box-shadow: 0 3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*расположение тени сверху*/
+}
+.mainmenu {
+    width: 743px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    /*background: #405641; /* Цвет фона */
+   }
+.centerstruct {
+    width: 600px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    /*background: #405641; /* Цвет фона */
+   }   
+div.main {
+    background: #8b9175; /* Цвет фона */
+    color: #000; /* Цвет текста */
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+	font-family:Verdana;
+   }
+div.right {
+    background: #405641; /* Цвет фона */
+    color: rgb(184, 212, 179); /* Цвет текста */
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    font-family:Courier;    
+   }
+div.logo {
+    /*background: #405641; /* Цвет фона */
+     /* Цвет текста */
+    padding: 1px; /* Поля вокруг текста */
+    /*border-radius: 5px; /* Уголки */
+    font-family:Gill Sans;
+    
+   }   
+#first_element {
+  position: relative;
+  left: 30px; 
+  top: 0px; 
+  width: 400px;
+  background: transparent;
+  color: rgb(6, 26, 3);
+  /*background: url(images/logoByhov.jpg) 00px 200px;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  background-color: #fafafa; 
+  border: solid 3px #ff7347;*/ 
+  font-size: 20px; 
+  text-align: center; 
+}
+img.rad {
+    border-radius: 8px; 
+   }
+/*carusel ---------------------------*/
+.myslider {
+    width: 840px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.shadow-b { 
+    background: url(UserFiles/shadow-b.png) no-repeat 0 0; 
+    width: 980px; 
+    height: 20px;  
+    /*bottom:-10px;*/
+    left:0;
+    margin-top: 20px; 
+}
+
+/*carusel ---------------------------*/
