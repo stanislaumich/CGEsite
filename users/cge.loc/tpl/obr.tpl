@@ -1,5 +1,17 @@
 
-<html><head><link type="text/css" media="all" rel="stylesheet" href="../htmlarea/table-borders.css" disabled="true" /></head><body style="visibility: visible;">
+<html><head><link type="text/css" media="all" rel="stylesheet" href="../htmlarea/table-borders.css" disabled="true" /></head>
+<body style="visibility: visible;">
+
+<center>
+<div class="centerstruct">
+<a href="index.php?p=glvr" class="wsbuttons">1</a>
+<a href="index.php?p=sekret" class="wsbuttons">2</a>
+<a href="index.php?p=buh" class="wsbuttons">3</a>
+<a href="index.php?p=gigi" class="wsbuttons">4</a>
+<a href="index.php?p=epid" class="wsbuttons">5</a>
+<a href="index.php?p=lab" class="wsbuttons">6</a>
+</div></center>
+
 
 <link type="text/css" media="all" rel="stylesheet" href="../htmlarea/table-borders.css" disabled="true" /><div class="projectsNews">
     <div class="newsContent">

@@ -1,5 +1,9 @@
 
-<html><head></head><body style="visibility: visible;"><p style="text-align: center;"><span style="font-size: 18px;"><strong>Лабораторный отдел</strong></span></p>
+<html><head></head><body style="visibility: visible;">
+
+
+
+<p style="text-align: center;"><span style="font-size: 18px;"><strong>Лабораторный отдел</strong></span></p>
 
 <p><span style="font-size: 16px;"><strong>Врач-бактериолог (заведующий лабораторным отделом):<br />
 <span style="color: rgb(0, 0, 128);">Ковалева Лидия Владимировна</span></strong></span></p>
