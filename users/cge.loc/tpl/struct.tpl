@@ -1,11 +1,11 @@
 <center>
 <div class="centerstruct">
-<a href="index.php" class="wsbuttons">Главврач</a>
-<a href="index.php?p=struct" class="wsbuttons">Секретарь</a>
-<a href="index.php?p=docs" class="wsbuttons">Бухгалтер</a>
-<a href="index.php?p=usl" class="wsbuttons">Гигиена</a>
-<a href="index.php?p=admproc" class="wsbuttons">Эпидотдел</a>
-<a href="#" class="wsbuttons">Лаботдел</a>
+<a href="index.php?p=glvr" class="wsbuttons">Главврач</a>
+<a href="index.php?p=sekret" class="wsbuttons">Секретарь</a>
+<a href="index.php?p=buh" class="wsbuttons">Бухгалтер</a>
+<a href="index.php?p=gigi" class="wsbuttons">Гигиена</a>
+<a href="index.php?p=epid" class="wsbuttons">Эпидотдел</a>
+<a href="index.php?p=lab" class="wsbuttons">Лаботдел</a>
 </div></center>
 <hr>
 <a href="%mdocs%/graph.pdf" class="docs" target=_blank>Графическая схема структуры организации в формате PDF</a>
