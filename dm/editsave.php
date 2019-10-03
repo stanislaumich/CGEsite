@@ -29,7 +29,7 @@ if ($res!=0){
    echo"<font color=green><center>Завершено успешно</font><br>";}
 else{
    echo"<center><font color=red>Ошибка добавления новости</font><br>";}
-echo"<a href='../index.php?p=".$a."'>Посмотреть результат</a><br>";
+echo"<a href='../index.php?p=new&n=".$res."'>Посмотреть результат</a><br>";
 echo"<a href='../dm.php'>Перейти в панель управления</a></center>";
 ?>
 </body>

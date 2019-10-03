@@ -10,11 +10,18 @@ $alert="";
 
 
 $nak = $_GET['p'];
+$n = $_GET['n'];
+
 $main=file_get_contents($tpl."/index.tpl");
-$f=$tpl."/".$nak.".tpl";
+
 if (isset($nak)) {
-file_exists ($f)?$nak=file_get_contents($tpl."/".$nak.".tpl"):$nak=file_get_contents($tpl."/dummy.tpl");
-         }
+        if ($nak=='new'){
+                include 'new.php';
+        }else{
+        $f=$tpl."/".$nak.".tpl";
+        file_exists ($f)?$nak=file_get_contents($tpl."/".$nak.".tpl"):$nak=file_get_contents($tpl."/dummy.tpl");
+        } 
+        }
 else{
         include 'news.php';      
 }
