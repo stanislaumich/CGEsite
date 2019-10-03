@@ -1,10 +1,9 @@
 
 <html><head></head><body style="visibility: visible;"><center>
 <div class="centerstruct">
-<a href="index.php?p=glvr" class="wsbuttons">Главврач</a>
+<a href="index.php?p=glvr" class="wsbuttons">Главный врач</a>
 <a href="index.php?p=sekret" class="wsbuttons">Секретарь</a>
-<a href="index.php?p=buh" class="wsbuttons">Бухгалтер</a>
-<a href="index.php?p=gigi" class="wsbuttons">Гигиена</a>
+<a href="index.php?p=buh" class="wsbuttons">Бухгалтер</a> <a href="index.php?p=gigi" class="wsbuttons">Отдел гигиены</a>
 <a href="index.php?p=epid" class="wsbuttons">Эпидотдел</a>
 <a href="index.php?p=lab" class="wsbuttons">Лаботдел</a>
 </div></center>

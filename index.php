@@ -7,6 +7,8 @@ $alert="";
 //$dbu = new SQLite3($ubasename);
 //$dbu = new PDO("sqlite:".$ubasename,'','');
 //$dbu->query("CREATE TABLE IF NOT EXISTS `USR` (id  INTEGER PRIMARY KEY AUTOINCREMENT, referer text, host TEXT, dt timestamp, spage text);");
+//$dbn = new PDO("sqlite:".$fbasename,'','');
+//$dbn->query("CREATE TABLE IF NOT EXISTS `TEXT` (id  INTEGER PRIMARY KEY AUTOINCREMENT, fname text, nname TEXT, dt timestamp, dop text);");
 
 
 $nak = $_GET['p'];

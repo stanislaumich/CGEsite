@@ -1,13 +1,13 @@
 <?php
  require "config.php";
  echo "Папка пользователя:".$_SERVER['SERVER_NAME']."<br>";
- echo'<html><meta charset="utf-8"><head></head><body>'; 
+ echo'<html><meta charset="utf-8"><head></head><body>'.PHP_EOL; 
  echo"<table border=1><tr>";
  echo"<td>";
   echo'Редактирование меню "Структура"';
  echo"</td>";
  echo"<td>";
-  echo"<form method=post action='dm/edits.php?a=struct'>
+  echo"<form method=post action='dm/fledits.php?a=struct'>
   <input type=hidden value='".$tpl."' name=tpl>
   <input type=submit value='Редактировать'>
  </form>";
@@ -17,7 +17,7 @@
   echo'Редактирование меню "Документы"';
  echo"</td>";
  echo"<td>";
-  echo"<form method=post action='dm/edits.php?a=docs'>
+  echo"<form method=post action='dm/fledits.php?a=docs'>
   <input type=hidden value='".$tpl."' name=tpl>
   <input type=submit value='Редактировать'>
  </form>";
@@ -64,7 +64,7 @@
  echo"</td>";
  echo "</tr><tr>";
  echo"<td>";
-  echo"<a href='dm/edits.php?a=struct'>Редактирование ещё чего то</a>";
+  echo"Редактирование ещё чего то";
  echo"</td>";
  echo"<td>";
   echo"<form method=post action='dm/edits.php?a=else'>
@@ -86,16 +86,40 @@
  echo"</td>";
  echo "</tr><tr>";
  echo"<td>";
-  echo"<a href='dm/edits.php?a=struct'>Редактировать новость</a>";
+  echo"Редактировать новость";
  echo"</td>";
  echo"<td>";
   echo"<form method=post action='dm/edits.php?a=cnews'>
   <input type=hidden value='".$tpl."' name=tpl>
   <input type=hidden value='edit' name=act>
-  <input type=submit value='Добавить'>
+  <input type=hidden value='".$nbasename."' name=nbasename>
+  <input type=submit value='Выбрать'>
  </form>";
  echo"</td>";
  echo "</tr><tr>";
+ echo"<td>";
+ echo"Создать вопрос";
+echo"</td>";
+echo"<td>";
+ echo"<form method=post action='dm/fedits.php?a=cnews'>
+ <input type=hidden value='".$tpl."' name=tpl>
+ <input type=hidden value='edit' name=act>
+ <input type=hidden value='".$fbasename."' name=fbasename>
+ <input type=submit value='Добавить'>
+</form>";
+echo"</td>";
+echo "</tr><tr>";
+echo"<td>";
+echo"Редактировать вопрос";
+echo"</td>";
+echo"<td>";
+echo"<form method=post action='dm/fedits.php?a=cnews'>
+<input type=hidden value='".$tpl."' name=tpl>
+<input type=hidden value='edit' name=act>
+<input type=hidden value='".$fbasename."' name=fbasename>
+<input type=submit value='Добавить'>
+</form>";
+echo"</td>";
  echo"</tr></table>";
  echo"</body></html>"; 
 ?>
