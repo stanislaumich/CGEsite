@@ -1,5 +1,14 @@
 
-<html><head></head><body style="visibility: visible;"><center>Ссылки на нормативно-правовые акты</center><br />
+<html><head></head><body style="visibility: visible;"><div class="pageheader">
+ <center>
+  Ссылки на нормативно-правовые акты
+ </center>
+</div>
+
+<br />
+ Ниже перечислены полезные для руководства в работе ссылки
+<hr />
+
 <a target="_blank" href="http://minzdrav.gov.by/dlya-spetsialistov/normativno-pravovaya-baza/tekhnicheskie-normativnye-pravovye-akty/index.php" class="docs">
 ДЕЙСТВУЮЩИЕ САНИТАРНЫЕ НОРМЫ, ПРАВИЛА И ГИГИЕНИЧЕСКИЕ НОРМАТИВЫ</a>
 <hr />
@@ -24,8 +33,14 @@
 <a target="_blank" href="http://www.eurasiancommission.org/ru/act/texnreg/deptexreg/normbaza/pages/reestrsertif.aspx" class="docs">
 Единый реестр выданных сертификатов соответствия и зарегистрированных деклараций о соответствии Евразийского экономического союза</a>
 <hr />
-<a target="_blank" href="http://rcheph.by/postanovleniya-o-zapreshchenii-obrashcheniya-produktsii/" class="docs">
+<a href="https://rcheph.by/nadzor/vremennye-sanitarnye-mery/" class="docs">
 Постановления о запрещении реализации продукции</a>
 <hr />
-<a target="_blank" href="http://gosstandart.gov.by/the-register-of-dangerous-products-prohibited-for-import-and-(or)-circulation-on-the-territory-of-the-republic-of-belarus" class="docs">
-Реестр опасной продукции, запрещенной к ввозу и (или) обращению на территории Республики Беларусь</a></body></html>
+<a href="http://danger.gskp.by/" class="docs">
+Реестр опасной продукции, запрещенной к ввозу и (или) обращению на территории Республики Беларусь</a>
+
+
+
+
+
+</body></html>

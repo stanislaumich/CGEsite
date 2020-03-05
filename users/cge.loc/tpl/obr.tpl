@@ -1,21 +1,9 @@
 
-<html><head><link type="text/css" media="all" rel="stylesheet" href="../htmlarea/table-borders.css" disabled="true" /></head>
-<body style="visibility: visible;">
-
-<center>
-<div class="centerstruct">
-<a href="index.php?p=glvr" class="wsbuttons">1</a>
-<a href="index.php?p=sekret" class="wsbuttons">2</a>
-<a href="index.php?p=buh" class="wsbuttons">3</a>
-<a href="index.php?p=gigi" class="wsbuttons">4</a>
-<a href="index.php?p=epid" class="wsbuttons">5</a>
-<a href="index.php?p=lab" class="wsbuttons">6</a>
-</div></center>
-
-
-<link type="text/css" media="all" rel="stylesheet" href="../htmlarea/table-borders.css" disabled="true" /><div class="projectsNews">
-    <div class="newsContent">
-        <div style="background: rgb(238, 238, 238) none repeat scroll 0% 0%; border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><span style="color: rgb(0, 0, 0);"><strong>Правовое регулирование работы с обращениями&#xa0;</strong></span></div>
+<html><head></head><body style="visibility: visible;"><div class="newsContent">
+        <div style="background: none 0% 0% repeat scroll rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;">
+		
+		<strong>Правовое регулирование работы с обращениями&#xa0;</strong>
+</div>
 
 <p>&#xa0;</p>
 
@@ -36,11 +24,9 @@
 
 <p>&#xa0;</p>
 
-<div style="background: rgb(238, 238, 238) none repeat scroll 0% 0%; border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><a id="lp" name="lp"><span style="color: rgb(0, 0, 0);"><strong><span style="font-size: 20px;">Личный прием</span></strong></span></a></div>
+<div style="background: none 0% 0% repeat scroll rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><a id="lp" name="lp"><span style="color: rgb(0, 0, 0);"><strong><span style="font-size: 20px;">Личный прием</span></strong></span></a></div>
 
 <p>&#xa0;</p>
-
-<p style="text-align: center;">&#xa0;</p>
 
 <p style="text-align: center;"><strong><a id="yct" name="yct"><span style="color: rgb(0, 0, 205);">&#xa0;</span></a><a id="yct" name="yct"><span style="color: rgb(0, 0, 205);"><span style="font-size: 16px;">Порядок
  подачи устных обращений регулируется Законом Республики Беларусь от 
@@ -215,7 +201,7 @@
 
 <p>&#xa0;</p>
 
-<div style="background: rgb(238, 238, 238) none repeat scroll 0% 0%; border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><strong><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;">Электронные обращения</span></span></strong></div>
+<div style="background: none 0% 0% repeat scroll rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><strong><span style="color: rgb(0, 0, 0);"><span style="font-size: 20px;">Электронные обращения</span></span></strong></div>
 
 <p>&#xa0;</p>
 
@@ -363,9 +349,7 @@
 
 <p>&#xa0;</p>
 
-<div style="background: rgb(238, 238, 238) none repeat scroll 0% 0%; border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><a id="tel" name="tel"><span style="color: rgb(0, 0, 0);"><strong><span style="font-size: 20px;">Прямая и горячая телефонные линиии</span></strong></span></a></div>
-
-<p style="text-align: center;">&#xa0;</p>
+<div style="background: none 0% 0% repeat scroll rgb(238, 238, 238); border: 1px solid rgb(204, 204, 204); padding: 5px 10px; text-align: center;"><a id="tel" name="tel"><span style="color: rgb(0, 0, 0);"><strong><span style="font-size: 20px;">Прямая и горячая телефонные линии</span></strong></span></a></div>
 
 <p style="text-align: center;"><strong><a id="tellin" name="tellin"><span style="color: rgb(0, 0, 205);"><span style="font-size: 18px;">&#xa0;Порядок организации телефонных линий</span></span></a></strong></p>
 
@@ -464,7 +448,6 @@
 об этом письменно в течение пяти рабочих дней с даты регистрации 
 обращений в организации.</p>
 
-<p style="text-align: justify;">&#xa0;</p>
 
 <p style="text-align: justify;"><strong>Прием обращений в ходе &quot;горячей линии&quot; или &quot;прямой телефонной
  линии&quot; может быть прекращен, если гражданин или представитель 
@@ -479,58 +462,4 @@
 ходе &quot;горячей линии&quot; и &quot;прямой телефонной линии&quot;, а также осуществление 
 контроля за их рассмотрением возлагается на руководителей организаций.</p>
 
-<p style="text-align: center;"><strong><a id="telgr" name="telgr"><span style="color: rgb(0, 0, 128);"><span style="font-size: 18px;">Телефоны; графики проведения прямых телефонных линий</span></span></a></strong></p>
-
-<p><span style="color: rgb(128, 0, 0);"><span style="font-size: 16px;"><strong>Телефон&#xa0;&quot;горячей линии&quot;</strong>&#xa0;<strong>8-02231-49-282&#xa0;&#xa0;работает ежедневно, кроме субботы и воскресенья&#xa0; с&#xa0;<em>8</em></strong><strong><em><sup>00</sup></em></strong><strong><em>&#xa0;до 13<sup>00&#xa0; &#xa0;</sup>и&#xa0; с 14<sup>00 </sup>до 17<sup>00</sup></em></strong></span></span></p>
-
-<p style="text-align: center;"><span style="font-size: 16px;"><strong><em>В УЗ &quot;Быховский районный центр гигиены и эпидемиологии&quot; проводятся<u> прямые телефонные линии </u>с населением каждую субботу с 9.00 до 12.00 дежурным специалистом по телефону: 49-282</em></strong></span></p>
-
-<p style="text-align: center;"><span style="font-size: 16px;"><strong><em>График</em></strong></span></p>
-
-<p style="text-align: center;"><span style="font-size: 16px;"><strong><em>проведения &quot;прямых телефонных линий&quot; с населением главным врачом </em></strong></span></p>
-
-<p style="text-align: center;"><span style="font-size: 16px;"><strong><em>УЗ &quot;Быховский райЦГЭ&quot;&#xa0;</em></strong></span><span style="font-size: 16px;"><strong><em>в&#xa0; 3&#xa0;квартале 2019&#xa0;года</em></strong></span></p>
-
-<p style="text-align: center;"><span style="color: rgb(0, 0, 128);"><span style="font-size: 16px;"><strong><em>по телефону 49-443</em></strong></span></span></p>
-
-<table style="width: 100%;" cellspacing="0" cellpadding="0" border="1">
-	<tbody>
-		<tr>
-			<td style="width: 56.94%;">
-			<p style="text-align: center;">Тема</p>
-			</td>
-			<td style="width: 19.58%;">
-			<p style="text-align: center;">Дата</p>
-
-			<p style="text-align: center;">(день недели)</p>
-			</td>
-			<td style="width: 17.82%;">
-			<p style="text-align: center;">Время (ч/мин)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 56.94%;">Санитарная очистка, благоустройство территорий населенных пунктов, аспекты качества воды</td>
-			<td style="width: 19.58%;">17.07.2019</td>
-			<td style="width: 17.82%;">с 11<sup>00 </sup>до 12<sup>00</sup></td>
-		</tr>
-		<tr>
-			<td style="width: 56.94%;">Соблюдение требований 
-санитарно-эпидемиологического законодательства при подготовке учреждений
- образования к новому учебному году</td>
-			<td style="width: 19.58%;">07.08.2019</td>
-			<td style="width: 17.82%;">с 11<sup>00 </sup>до 12<sup>00</sup></td>
-		</tr>
-		<tr>
-			<td style="width: 56.94%;">
-			<p>Радиационная безопасность. Качество пищевых продуктов</p>
-			</td>
-			<td style="width: 19.58%;">04.09.2019</td>
-			<td style="width: 17.82%;">с 11<sup>00</sup> до 12<sup>00</sup></td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&#xa0;</p>
-
-    </div>
-</div></body></html>
+%hotline%

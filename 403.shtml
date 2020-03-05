@@ -1,0 +1,17 @@
+<html>
+
+<link href="%tpl%/index.css" rel="stylesheet">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta http-equiv="refresh" content="1;URL='http://byhov-cge.by/index.php?p=403'>
+<title>
+</title>
+</head>
+<body>
+<!--#echo var="REQUEST_URI" --> - запрашиваемый вами ресурс не найден на сервере, возможно он был удален или перемещён<br>
+<a href="/">На главную страницу сайта</a><br>
+<?php
+echo"OOps";
+?>
+</body>
+</html>

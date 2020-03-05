@@ -16,3 +16,6 @@
 %nazvkrat%#УЗ "Быховский райЦГЭ"
 %nazvpoln%#Учреждение Здравоохранения "Быховский районный Центр Гигиены и Эпидемиологии"
 %adr%#ул. Красноармейская, 3а, 213352, г. Быхов
+%worktime%#с 8<sup>00</sup> до 17<sup>00</sup>, обед с 13<sup>00</sup> до 14<sup>00</sup>, выходные: суббота, воскресенье.
+%zojmail%#zojbyhov@mail.ru
+%epidmail%#byhov_epid@mail.ru, epidotdel.byhov@mail.ru

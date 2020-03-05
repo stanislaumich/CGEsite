@@ -1,15 +1,16 @@
 
 <html><head></head><body style="visibility: visible;"><center>
 <div class="centerstruct">
-<a href="index.php?p=glvr" class="wsbuttons">Главврач</a>
-<a href="index.php?p=sekret" class="wsbuttons">Секретарь</a>
-<a href="index.php?p=buh" class="wsbuttons">Бухгалтер</a>
-<a href="index.php?p=gigi" class="wsbuttons">Гигиена</a>
+<a href="index.php?p=glvr" class="wsbuttons">Главный врач</a>
+<a href="index.php?p=sekret" class="wsbuttons">Приемная</a>
+<a href="index.php?p=buh" class="wsbuttons">Бухгалтерия</a>
+<br><br>
+<a href="index.php?p=gigi" class="wsbuttons">Отдел гигиены</a>
 <a href="index.php?p=epid" class="wsbuttons">Эпидотдел</a>
-<a href="index.php?p=lab" class="wsbuttons">Лаботдел</a>
+<a href="index.php?p=lab" class="wsbuttons">Лабораторный отдел</a>
 </div></center>
 <hr />
-<a href="%mdocs%/graph.pdf" class="docs" target="_blank">Графическая схема структуры организации в формате PDF</a>
+<center><a href="%mdocs%/graph.pdf" class="docs" target="_blank">Графическая схема структуры организации в формате PDF</a></center>
 <hr />
 <center>Вышестоящая организация</center>
 <br />
@@ -42,4 +43,6 @@ E-mail:<a href="mailto:oblmcge@tut.by">oblmcge@tut.by</a>
 <br />
 </p><p>
 Личный прием руководителем и(или) его заместителями проводится каждую среду с 8.00 до 13.00, 
-предварительная запись на личный прием по тел.74-06-48</p></body></html>
+предварительная запись на личный прием по тел.74-06-48
+
+</p></body></html>
