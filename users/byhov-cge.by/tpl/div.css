@@ -1,0 +1,54 @@
+div.main {
+	/*background: none 0% 0% repeat scroll rgb(238, 238, 238);*/ 
+	border: 1px solid rgb(204, 204, 204); 
+	padding: 5px 10px; 
+	border-radius: 5px;
+	font-weight: bold;
+	font-family:Verdana;
+	padding-left : 5px;
+	padding-top : 5px;
+	padding-right : 5px;
+	padding-bottom : 5px;
+   }
+div.right {
+    background: #7ed9fa;/*#3792B3;  405641; /* Цвет фона */
+    color: rgb(50, 50, 50); /* Цвет текста */
+    padding: 2px; /* Поля вокруг текста */
+	padding-top : 10px;
+	padding-bottom : 10px;
+    border-radius: 5px; /* Уголки */
+    font-family : Verdana;/*Courier;*/    
+   }
+div.rightbottom {
+    background: #7ed9fa;/*#3792B3;  405641; /* Цвет фона */
+    color: rgb(50, 50, 50); /* Цвет текста */
+    /*padding: 2px; /* Поля вокруг текста */
+	padding-top : 10px;
+	padding-bottom : 10px;
+	padding-left : 10px;
+	padding-right : 10px;
+    border-radius: 5px; /* Уголки */
+    font-family : Verdana;/*Courier;*/    
+   }   
+div.left {
+    background: #3792B3; /* Цвет фона */
+    color: rgb(184, 212, 179); /* Цвет текста */
+    padding: 8px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    font-family:Verdana;/*Courier;*/     
+   }   
+div.logo {
+    /*background: #405641; /* Цвет фона */
+     /* Цвет текста */
+    padding: 1px; /* Поля вокруг текста */
+    /*border-radius: 5px; /* Уголки */
+    font-family:Gill Sans;
+    
+   }
+div.pageheader{
+	background: none 0% 0% repeat scroll rgb(238, 238, 238); 
+	border: 1px solid rgb(204, 204, 204); 
+	padding: 5px 10px; 
+	border-radius: 5px;
+	font-weight: bold;
+}

@@ -1,0 +1,112 @@
+a.docs{
+	color: #000000;/*цвет текста*/
+	font-size: 14px;/*размер текста*/
+    font-weight: bold;/*жирный шрифт*/
+	line-height: 1.5;/*высота строки*/
+	/*text-decoration: none;/*убераем подчеркивание*/
+}
+a.usl{
+	color: #000000;/*цвет текста*/
+	font-size: 14px;/*размер текста*/
+    /*font-weight: bold;/*жирный шрифт*/
+	line-height: 1.5;/*высота строки*/	
+}
+a.wsbuttons{
+    background: #3792B3;/*цвет фона*/
+    border-radius: 3px;/*радиус скругления*/
+    box-shadow: 0 -3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*внутрення тень*/
+    color: #ffffff;/*цвет текста*/
+    font-family: sans-serif;/*семейство шрифта*/
+    font-size: 14px;/*размер текста*/
+    font-weight: bold;/*жирный шрифт*/
+    line-height: 1.5;/*высота строки*/
+    padding: 5px 5px;/*внутрение отступы*/
+    /*margin:0 auto;/*выравнивание по центру*/
+    text-decoration: none;/*убераем подчеркивание*/
+    transition: all 0.3s;/*плавный эффект перехода*/
+}
+a.wsbuttons:hover {
+    background: #076283;/*другой цвет фона*/
+    box-shadow: 0 3px 0 0 hsla(0, 0%, 0%, 0.2) inset;/*расположение тени сверху*/
+}
+
+a.dekret7{
+ text-decoration: none;/*убераем подчеркивание*/	
+ color: #000000;/*цвет текста*/	
+ font-size: 14px;/*размер текста*/
+}
+a.dekret7:hover{
+ text-decoration: none;/*убераем подчеркивание*/	
+ color: #ffffff;/*цвет текста*/	
+ 
+}
+a.dekret7:visited{
+ text-decoration: none;/*убераем подчеркивание*/	
+ color: #000000;/*цвет текста*/	
+ 
+}   
+a.obzh{
+ text-decoration: none;/*убераем подчеркивание*/
+ color: #000000;/*цвет текста*/	
+ font-size: 14px;/*размер текста*/
+ text-align: justify;
+}
+a.obzh:hover{
+ text-decoration: none;/*убераем подчеркивание*/	
+ color: #ffffff;/*цвет текста*/	
+ 
+}
+a.obzh:visited{
+ text-decoration: none;/*убераем подчеркивание*/	
+ color: #ffffff;/*цвет текста*/	
+ 
+}
+  
+a.button17 {
+  display: inline-block;
+  font-family: arial,sans-serif;
+  font-size: 11px;
+  color: rgb(205,216,228);
+  text-shadow: 0 -1px rgb(46,53,58);
+  text-decoration: none;
+  user-select: none;
+  line-height: 2em;
+  padding: 1px 1.2em;
+  outline: none;
+  border: 1px solid rgba(33,43,52,1);
+  border-radius: 3px;
+  background: rgb(81,92,102) linear-gradient(rgb(81,92,102), rgb(69,78,87));
+  box-shadow:
+   inset 0 1px rgba(101,114,126,1),
+   inset 0 0 1px rgba(140,150,170,.8),
+   0 1px rgb(83,94,104),
+   0 0 1px rgb(86,96,106);
+}
+a.button17:active {
+  box-shadow:
+   inset 0 1px 3px rgba(0,10,20,.5),
+   0 1px rgb(83,94,104),
+   0 0 1px rgb(86,96,106);
+}
+a.button17:focus:not(:active) {
+  border: 1px solid rgb(22,32,43);
+  border-bottom: 1px solid rgb(25,34,45);
+  background: rgb(53,61,71);
+  box-shadow:
+   inset 0 1px 3px rgba(0,10,20,.5),
+   0 1px rgb(83,94,104),
+   0 0 1px rgb(86,96,106);
+  pointer-events: none;
+}
+
+a.nws{
+	text-decoration: underline; 	
+}
+a.nws:visited {
+    color: #000055; 
+   } 
+a.nws:hover {
+    color: #000000;  
+    text-decoration: underline; 
+	text-shadow: #3792B3 0 0 10px; 
+   }
